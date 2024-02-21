@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fitbuddy-chatbot-psif",
+  "private_key_id": "055ea0f6e30d166cd31572e6252d11769d747f67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtJV4NJXpgaEZB\n5/IbWC/FT9IAqhpErkgeZRVaYP4tsL8R/1b1wpRp6QkvVEXz5ktApmi1iAL7nsW4\noO7MA1kD0ChOcgry3UBeBMw2EbE0LDoHTLgmU4h4N5EZX/Q8DBUrJWIfhiIesNVU\nIImrPzpulj26RGrK9Z6TCQ2/IpCUkz9RnQb2VYgwdxaZHR+Ajuvh8PC/5b6SG8ON\n0r+kkZSTLIWN3MvwyIWzDZMop4TNA87ZalMcdIzbgSKJLLDgTPgxijoM1yllZtxi\nqahCKA5oohdB72MxaLS0OA/n3j+YV9avRHY3ijkCLisLswMP4/r2Tu07qujKAlTs\nTVguGexVAgMBAAECggEAJ+MPVxT2q6Xp5X3i6sS2gIxiUu/czEyf5YygzijA9VKd\nua4qYMQ5/2oFSSdvVAAN/u82+PbDxSZu4xkD2fC9fWDjICsqdYddsCsHxj7uJRg5\nJ/xXAdFFg3g9j2xo7bpU2BMtFxkF3C8dfdtfC5mtwtMOlk3zkhziMnon9gum5eri\nFPKwlsRiEWEo8G5K+/DbfRdShuBLtC4JjH9uMWl7ofn5W/SUbDzRzg3aPAKJQmyo\nmtcmlTJl+40exj/Lda0zM17ATRMPFjVgmoJYHNOqCAelMpGa1w0r1H4xUPzxiOeK\nHokHrIIO408hOyZiGo68psHEGG+LK1xKIkDocXlK0QKBgQDwXbclRcyLDoDoof+V\nUPLfARkJagnCWk+Gy0pUfClYJmB05WBiBe+YSUV0HAZmHlgPXuxWw+CJr07+H+Vp\nS2F1W4etsSe4Mmz3/mmkTRsmehy/Krx8vweMmnFxLGkq3jcOOW9F3w62B+hww1xs\nYiWDIBYPEsZdIPwx1dg9IkO8TQKBgQC4aGJZjAdB/zBGghp9M6xfQOv8j75AMDSo\n5iijCDIGh5P51gGxiTmYa9BXHBShj7OJ+PDGEizhVj8BtB9/CcxOCEuNJkq1rFew\noB/JpB7+EKjhhwnXeLrBrCbrQO8iEwm2oRpknylXqiT1adedSMM4idoIa5auBAEm\n5vYzQxXUKQKBgC6SWdv07C69PqjUSosJxiUDN3ClhQKNMP9zABHihLg5p1K+5q/X\napbdC4H1tB+xHWrM/4nIJgdHWkzOrUp7eoScmWtD+egsjQR33MwizHHmEw/PHfol\noTbS7cv5yN6vc4dkBXVKRLVsTtMaZxvw4EfJvbxp7Nk6fOLDBkTCENG5AoGBAKLY\ne1F8mMQtKGJ7bgz2XtfXKw5jmaxxZW9poKUoDZU6kPBljiVLezMgsmDaiVWK4w+K\naIVhc4Sidw14FQBIlMSsCpvhHsSEJwPww2F7r2rJJ3nRmF1RXgq9jbjeJM7AZSmD\n5xzIeOfTdsPJ7gAVS2BYS9R3vh55ptLFztDCAzrRAoGAIZHfXTkysjlADNeRD3Dj\nnchC3OgA0fPk/58MYAgWjryCzYuEkOpOINzRUW7pdTxE/s51Tj1GcG4i8GUVKIZc\nckpCdtxfsKQHR3V2/zyBm04D/i03gbviYQ6JVheb5EQbDFDdxyNyyuknfmy6KIrS\n34EL6XwaNMQAxk2JHlyf1No=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fitbuddy-chatbot@fitbuddy-chatbot-psif.iam.gserviceaccount.com",
+  "client_id": "100754693668712836155",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fitbuddy-chatbot%40fitbuddy-chatbot-psif.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
