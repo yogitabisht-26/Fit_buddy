@@ -1,16 +1,4 @@
-# fitbuddy
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/yogitabisht-26/Fit_buddy/assets/149998186/586b3375-5b6e-4bf2-90de-9e6ac5040f6c
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
